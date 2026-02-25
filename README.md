@@ -92,9 +92,14 @@ Three interconnected dashboards:
 -	Power BI – Data modeling, DAX calculations, dashboard development
 -	DAX – Risk scoring, rate calculations, composite segmentation logic
 -	Excel / Data Preparation Tools – Initial cleaning and dataset structuring
+  
 ## Future Improvements
 -	Separate preventive visits into routine prevention vs chronic follow-up visits
 -	Introduce longitudinal tracking to measure intervention impact over time
 -	Build predictive risk scoring using regression or machine learning
 -	Add cost modeling to estimate financial burden by risk group
 	Integrate real-world public health datasets for enhanced realism
+
+## Live Dashboard
+The interactive Excel dashboard is hosted on OneDrive for easy viewing:
+[Open Live PowerBi Dashboard] (https://app.powerbi.com/groups/me/reports/33caa423-135f-498c-951b-232da5b2caf1/4604c729a433c8588980?experience=power-bi)
